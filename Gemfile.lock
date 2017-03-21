@@ -76,8 +76,6 @@ GEM
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     pg (0.20.0)
-    postgres (0.8.1)
-      pg (~> 0)
     rack (1.6.5)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -156,7 +154,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  postgres
+  pg
   rails (= 4.2.5)
   rails_12factor
   sass-rails (~> 5.0)
