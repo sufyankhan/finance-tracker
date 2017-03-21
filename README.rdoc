@@ -1,0 +1,3 @@
+This is a finance tracker app prototype. Here we will create a prototype and basic functionality, need to be really fast paced within few days and should be working
+It should also work on mobile but UI isn't of much importance at this point but app should be presentable so that 
+investors can be lured into in an investors gathering and we can get some funding.
