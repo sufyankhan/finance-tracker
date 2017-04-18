@@ -7,5 +7,5 @@ class CreateStocks < ActiveRecord::Migration
       t.datetime :created_at
       t.datetime :updated_at
     end
-  end
+end
 end
